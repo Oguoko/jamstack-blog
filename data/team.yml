@@ -1,0 +1,44 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : KEVIN OGUOKO
+    designation : Creative Director
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-two.jpg
+    name        : JOHN ALLOSSO
+    designation : Product Manager
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-three.jpg
+    name        : KEVIN ONG'ANY
+    designation : Chief Design Officer
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-four.jpg
+    name        : GILBERT SIGEY
+    designation : UX Researcher
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-five.jpg
+    name        : TONY OTIENO
+    designation : Content Researcher
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-six.jpg
+    name        : GREGORY ONYANGO
+    designation : Creative Designer
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
