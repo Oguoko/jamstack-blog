@@ -1,5 +1,5 @@
 ---
-title: My Logo Design Process 3
+title: My Logo Design Like Me
 author: Kevin Oguoko
 date: 2021-05-28T07:19:41.309Z
 image: images/blog/blog-post-02.jpg
