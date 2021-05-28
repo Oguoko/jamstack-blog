@@ -1,9 +1,9 @@
 ---
-title: "My Personal Logo Design Process"
+title: My Logo Design Process
+author: Kevin Oguoko
 date: 2021-05-27
 image: images/blog/blog-post-02.jpg
 feature_image: images/blog/blog-details-image.jpg
-author: Kevin Oguoko
 ---
 
 ### OGUOKO Brand Identity, by & Smith
