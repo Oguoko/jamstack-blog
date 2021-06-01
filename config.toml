@@ -30,7 +30,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/logo2.png"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
@@ -120,8 +120,8 @@ summarylength = 25
           name = "Behance"
           url  = "https://behance.com/oguoko/"
         [[params.footer.social.link]]
-          name = "Twitter"
-          url  = "https://twitter.com/oguoko"
+          name = "Github"
+          url  = "https://github.com/oguoko"
         [[params.footer.social.link]]
           name = "Instagram"
           url  = "https://instagram.com/oguoko/"
