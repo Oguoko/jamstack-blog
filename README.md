@@ -1,1 +1,1 @@
-This is jamstack buiilt blog app that also contains my personal portfolio. 
+This is a jamstack built blog app that also contains my personal portfolio. 
