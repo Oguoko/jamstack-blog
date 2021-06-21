@@ -2,36 +2,36 @@ enable  : true
 title   : "OPINION FROM REAL PEOPLE"
 subtitle: "What clients says about our services."
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/testimonial/keith.png"
     name  : "Keith Anditi"
     company_position: "Founder - TV Mtaani App"
     quote : > 
             "It was a really complicated app to be honest and it needed to be very technical to talk to servers(APIs) in the world. It was a gamble. We imagined we need a bigger company to do this. Kevin Oguoko amazingly delivered." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Roseline Obongo"
+  - thumb : "images/testimonial/roseline.png"
+    name  : "Roseline Abuto"
     company_position: "CO-Founder, Kenya Mental Health"
     quote : > 
             "He provided so many services under one roof. Timely too. He transalated emotions that entails a heavy chunk of our work into creative batches that have translated into awesome results throught our work."
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/testimonial/peter.png"
     name  : "Peter Wairasho"
     company_position: "MD, Twinspot Tours and Travel"
     quote : > 
             "He gave me options while at the same time allowing us as a company to invest in areas we had previously overlooked." 
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
+  - thumb : "images/testimonial/omari.png"
     name  : "Omari Salisbury"
     company_position: "MD, Converge Media"
     quote : > 
             "Kevin is my go-to guy whenever I want something creative with good media and social presence in Nairobi. Absolutely talented writer and creative" 
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
+  - thumb : "images/testimonial/charles.png"
     name  : "Charles Otieno"
     company_position: "MD, Tairus Diamond"
     quote : > 
             "1000 hours later.. and give talented individuals. We hope our referrals help you even further." 
 
-  - thumb : "images/testimonial/user-thumb-six.jpg"
+  - thumb : "images/testimonial/benjamin.png"
     name  : "Robert Tairus"
     company_position: "Tairus - Created Emeralds (Thailand)"
     quote : > 
