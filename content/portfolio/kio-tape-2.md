@@ -2,9 +2,9 @@
 title: "OGUOKO BRAND"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/oguoko1.png"
 category: ["BRAND IDENTITY"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/oguoko1.png", "images/projects/oguoko2.png", "images/projects/oguoko3.png", "images/projects/oguoko4.png", "images/projects/oguoko5.png", "images/projects/oguoko6.png", "images/projects/oguoko7.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
