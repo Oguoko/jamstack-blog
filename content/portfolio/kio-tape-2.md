@@ -9,5 +9,5 @@ project_images: ["https://vimeo.com/552501451", "images/projects/oguoko1.png", "
 
 The “OGUOKO" brand is my personal brand name as a public figure in design and creativity. Something which I refer to as 'Future Creativity'. Creating from a 360degrees angle point of view. With this brand name and projects to come out thereafter I am trying to get more people involved in various types of creativity. Sweeping through design and code.
 
-![project-details-video](https://vimeo.com/552501451)
+
 
