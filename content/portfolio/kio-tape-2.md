@@ -11,8 +11,15 @@ Kevin Oguoko is a software developer and creative based in Nairobi, Kenya.
 
 His skills cut across graphic design, motion design, copywriting, computer science and strategy.
 
-With an "OGUOKO" b
-The “OGUOKO" brand is my personal brand name as a public figure in design and creativity. Something which I refer to as 'Future Creativity'. Creating from a 360degrees angle point of view. With this brand name and projects to come out thereafter I am trying to get more people involved in various types of creativity. Sweeping through design and code.
+With an "OGUOKO" brand name he hopes to influence a culture of creativity by sharing technical skill knowledge and fundamentals.
+
+Project: OGUOKO
+Category: Brand Identity and Design
+Tools: Illustrator, Photoshop and After Effects
+Creative: Kevin Oguoko
+
+
+Video - https://vimeo.com/552501451
 
 
 
