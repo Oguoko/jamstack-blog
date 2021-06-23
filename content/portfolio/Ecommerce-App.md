@@ -2,9 +2,9 @@
 title: "E-COMMERCE APP"
 date: 2019-12-23T15:56:43+06:00
 type: portfolio
-image: "images/projects/ecommerce.png"
+image: "images/projects/mentall1.png"
 category: ["SOFTWARE DEVELOPMENT"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/mentall1.png", "images/projects/mentall2.png", "images/projects/mentall3.png", "images/projects/mentall4.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
