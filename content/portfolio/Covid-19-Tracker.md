@@ -2,7 +2,7 @@
 title: "COVID-19 TRACKER"
 date: 2019-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-one.jpg"
+image: "images/projects/covid.png"
 category: ["WEB-APP DEVELOPMENT"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
