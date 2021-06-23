@@ -10,7 +10,11 @@ project_images: ["images/projects/covid1.jpg", "images/projects/covid2.jpg", "im
 Created last year, 2020, at the height of the Covid-19 pandemic, this one of a kind web app tracks covid-19 cases (Confirmed Cases, Deaths and Recovered) from around the world. It displays these data sets in a Map, Line Graph, Table and a Tab that provides these infomration dynamically from a WHO funded database.
 
 Project: Covid-19 Tracker
+
+
 Tools: Javascript, React and Firebase
+
+
 Link: https://covid-19-tracker-3cb14.web.app/
 
 
