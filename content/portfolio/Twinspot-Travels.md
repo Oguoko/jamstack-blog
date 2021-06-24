@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/ux.png"
 category: ["UX/UI"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/travell1.png", "images/projects/travell2.png", "images/projects/travell3.png", "images/projects/travell4.png", "images/projects/travell5.png"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
